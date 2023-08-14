@@ -1,0 +1,2 @@
+# Understanding-the-Key-Performance-Indicators-KPIs-in-4G-LTE-
+This project evaluates essential KPIs in VOLTE, including CALL SETUP SUCCESS RATE (CSSR), DROP CALL RATE(DCR), HANDOVER SUCCESS RATE (HOSR), and TRAFFIC CHANNEL DROP RATE, while demonstrating how Python's visualization tools can transform complex KPI data into actionable insights, optimizing network performance for seamless connectivity. 
